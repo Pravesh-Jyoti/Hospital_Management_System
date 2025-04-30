@@ -1,1 +1,2 @@
 # Hospital_Management_System
+This Hospital Management System is a web-based application designed to streamline the day-to-day operations of a hospital or healthcare facility. It aims to provide an efficient and organized way to manage patient information, appointments, doctors, departments. The system supports role-based access for administrators, doctors, and nurses to ensure secure and structured handling of data.
